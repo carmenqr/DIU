@@ -38,7 +38,13 @@ Miembros
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
 -----
 ![Analisis_comp](P1/Competitor_Analysis.png)
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas 
+>>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas.
+>>>
+>>> GranadaCooking es una web que se dedica a la planificación de talleres de cocina de todo tipo y culturas, es una web un poco pobre en la que la usabilidad se hace bastante complicada, incluso llega a ser frustrante. Aún así la idea y trasfondo de la web es bueno.
+>>>
+>>>  PilsaEduca es una web que al igual que GranadaCooking también ofrece talleres de cocina, esta web si tiene una usabilidad bastante fácil e intuitiva, ...
+>>>
+>>> SaborGranada en este caso está más orientada a la recomendación y búsqueda de diferentes lugares para disfrutar de experiencias grastronómicas, la usabilidad es bastante intuitiva. Está desactualizada ya que tiene distintos enlaces que no te llevan a ninguna parte y falta de algunas cosas que serían muy utiles para los usuarios como reseñas de los lugares ofertados.
 
 ![Método UX](img/Persona.png) 1.c Persona
 -----
@@ -49,6 +55,8 @@ Miembros
 >>> Hemos escogido Josefina como persona, porque pensamos que el hecho de ponernos en la piel de una persona de edad avanzada que está poco familiarizada con internet y que tiene que recurrir a páginas de internet para cubrir sus necesidades y para seguir desarrollando sus habilidades de cocina, nos va a ayudar bastante a mejorar el diseño de la página y a poder adaptarla para diferentes personas.
 >>>
 >>> Por otro lado la segunda persona que hemos escogido es Pablo, una persona que está más familiarizada con las tecnologías que Josefina,
+>>>
+>>> 
 ![Método UX](img/JourneyMap.png) 1.d User Journey Map
 ----
 
