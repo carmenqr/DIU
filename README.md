@@ -42,6 +42,7 @@ Miembros
 
 ![Método UX](img/Persona.png) 1.c Persona
 -----
+![Método UX](P1/Persona#1.png)
 
 >>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  
 
