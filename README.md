@@ -48,8 +48,7 @@ Miembros
 >>> 
 >>> Hemos escogido Josefina como persona, porque pensamos que el hecho de ponernos en la piel de una persona de edad avanzada que está poco familiarizada con internet y que tiene que recurrir a páginas de internet para cubrir sus necesidades y para seguir desarrollando sus habilidades de cocina, nos va a ayudar bastante a mejorar el diseño de la página y a poder adaptarla para diferentes personas.
 >>>
->>> Por otro lado la segunda persona que hemos escogido es Pablo, una persona que está más familiarizada con las tecnologías que Josefina, aún asi tiene un propósito y para ello necesita recurrir a webs que le ayuden y le inspiren a realizar nuevos planes y a tener nuevas experiencias (gastronómicas en este caso) con su novia. 
-
+>>> Por otro lado la segunda persona que hemos escogido es Pablo, una persona que está más familiarizada con las tecnologías que Josefina,
 ![Método UX](img/JourneyMap.png) 1.d User Journey Map
 ----
 
