@@ -44,7 +44,7 @@ Miembros
 >>>
 >>>  PilsaEduca es una web que al igual que GranadaCooking también ofrece talleres de cocina, esta web si tiene una usabilidad bastante fácil e intuitiva, ...
 >>>
->>> SaborGranada en este caso está más orientada a la recomendación y búsqueda de diferentes lugares para disfrutar de experiencias grastronómicas, la usabilidad es bastante intuitiva. Está desactualizada ya que tiene distintos enlaces que no te llevan a ninguna parte y falta de algunas cosas que serían muy utiles para los usuarios como reseñas de los lugares ofertados.
+>>> SaborGranada en este caso está más orientada a la recomendación y búsqueda de diferentes lugares para disfrutar de experiencias grastronómicas. La usabilidad es bastante intuitiva aunque está desactualizada ya que tiene distintos enlaces que no te llevan a ninguna parte y también le faltan algunas características que podrían servir de gran utilidad a los usuarios como reseñas de los lugares ofertados.
 
 ![Método UX](img/Persona.png) 1.c Persona
 -----
