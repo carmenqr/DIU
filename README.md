@@ -1,7 +1,7 @@
 # DIU24
 Prácticas Diseño Interfaces de Usuario 2023-24 (Tema: .... ) 
 
-Grupo: DIU1_01AABB.  Curso: 2023/24 
+Grupo: DIU2_Óscar Picado Cariño y Carmen Quiles Ramírez.  Curso: 2023/24 
 Updated: 11/2/2024
 
 Proyecto: 
@@ -44,7 +44,11 @@ Miembros
 -----
 ![Persona_1](P1/Persona1.png)
 ![Persona_2](P1/Persona2.png)
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  
+>>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha.
+>>> 
+>>> Hemos escogido Josefina como persona, porque pensamos que el hecho de ponernos en la piel de una persona de edad avanzada que está poco familiarizada con internet y que tiene que recurrir a páginas de internet para cubrir sus necesidades y para seguir desarrollando sus habilidades de cocina, nos va a ayudar bastante a mejorar el diseño de la página y a poder adaptarla para diferentes personas.
+>>>
+>>> Por otro lado la segunda persona que hemos escogido es Pablo, una persona que está más familiarizada con las tecnologías que Josefina, aún asi tiene un propósito y para ello necesita recurrir a webs que le ayuden y le inspiren a realizar nuevos planes y a tener nuevas experiencias (gastronómicas en este caso) con su novia. 
 
 ![Método UX](img/JourneyMap.png) 1.d User Journey Map
 ----
