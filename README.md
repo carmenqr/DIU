@@ -42,7 +42,8 @@ Miembros
 
 ![Método UX](img/Persona.png) 1.c Persona
 -----
-
+![Persona 1](P1/Persona#1.png)
+![Persona 2](P1/Persona#2.png)
 >>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  
 
 ![Método UX](img/JourneyMap.png) 1.d User Journey Map
