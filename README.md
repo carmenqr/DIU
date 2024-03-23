@@ -43,8 +43,8 @@ Miembros
 
 ![Método UX](img/Persona.png) 1.c Persona
 -----
-![Persona_1](P1/Persona1.png)
-![Persona_2](P1/Persona2.png)
+![Persona_1](P1/Persona_1.png)
+![Persona_2](P1/Persona_2.png)
 >>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha.
 >>> 
 >>> Hemos escogido Josefina como persona, porque pensamos que el hecho de ponernos en la piel de una persona de edad avanzada que está poco familiarizada con internet y que tiene que recurrir a páginas de internet para cubrir sus necesidades y para seguir desarrollando sus habilidades de cocina, nos va a ayudar bastante a mejorar el diseño de la página y a poder adaptarla para diferentes personas.
