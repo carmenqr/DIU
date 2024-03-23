@@ -20,11 +20,6 @@ Miembros
 
 ----- 
 
-
-
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este texto desde la práctica 1
-
-
 # Proceso de Diseño 
 
 ## Paso 1. UX User & Desk Research & Analisis 
@@ -33,7 +28,7 @@ Miembros
 ![Método UX](img/Competitive.png) **1.a User Reseach Plan**
 -----
 
->>> Describe el plan de User Research (cómo se planteas)  
+>>> En este proyecto nos vamos a centrar en mejorar una interfaz de una página web o app que ofrece experiencias gastronómicas evaluando los principios de usabilidad y las experiencias de los usuarios.  
 
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
 -----
