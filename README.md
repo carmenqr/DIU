@@ -1,5 +1,5 @@
 # DIU24
-Prácticas Diseño Interfaces de Usuario 2023-24 (Tema: .... ) 
+Prácticas Diseño Interfaces de Usuario 2023-24 (Tema: Experiencias gastronómicas ) 
 
 Grupo: DIU2_Óscar Picado Cariño y Carmen Quiles Ramírez.  Curso: 2023/24 
 Updated: 11/2/2024
