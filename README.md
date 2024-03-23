@@ -33,8 +33,6 @@ Miembros
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
 -----
 ![Analisis_comp](P1/Competitor_Analysis.png)
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas.
->>>
 >>> GranadaCooking es una web que se dedica a la planificación de talleres de cocina de todo tipo y culturas, es una web un poco pobre en la que la usabilidad se hace bastante complicada, incluso llega a ser frustrante. Aún así la idea y trasfondo de la web es bueno. Esta web ofrece talleres de cocina, sin embargo, con un calendario muy desactualizado y talleres sin fechas disponibles, provocando así cierta inutilidad para este tipo de público y no ofreciendo información de rutas o restaurantes sobre la gastronomía de granada. 
 >>>
 >>>  PilsaEduca es una web que al igual que GranadaCooking también ofrece talleres de cocina, esta web si tiene una usabilidad bastante fácil e intuitiva. Ofrece además ventajas de registro y tarjetas regalo para individuales, parejas o grupos. Es una muy buena página web para aprender de cocina, sin embargo, no ofrece información sobre restaurantes o rutas gastronómicas, por lo que puede resultar inutil para algún tipo de público que sea esto último lo que busque. 
@@ -64,7 +62,7 @@ Miembros
 ----
 >>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
 >>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento: ![Persona_1](P1/Persona_1.png)
+>>> - Enlace al documento: ![Usability_Review](P1/Usability_Review.pdf)
 >>> - Valoración final (numérica): 6,5
 >>> - Comentario sobre la valoración: Valor acorde al análisis realizado en el Competitor Analysis. Esperábamos este resultado ya que la página cumple con las necesidades muy básicas de la mayoría de los usuarios, sin embargo hay unos cuantos aspectos a mejorar para que las experiencias de los mismos sean mejoradas. Los mejores aspectos de la página son en general la página principal, el menu, el contenido en gran parte. Los peores aspectos son la falta de un buscador, las formas de contacto y la falta de ayuda en general, tanto en la página como en los formularios. 
 
