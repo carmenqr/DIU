@@ -52,6 +52,7 @@ Miembros
 >>> 
 ![Método UX](img/JourneyMap.png) 1.d User Journey Map
 ----
+![Método UX](img/JourneyMap.png)
 
 
 >>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) 
