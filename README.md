@@ -44,12 +44,10 @@ Miembros
 ![Método UX](img/Persona.png) 1.c Persona
 -----
 ![Persona_1](P1/Persona_1.png)
-![Persona_2](P1/Persona_2.png)
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha.
->>> 
->>> Hemos escogido Josefina como persona, porque pensamos que el hecho de ponernos en la piel de una persona de edad avanzada que está poco familiarizada con internet y que tiene que recurrir a páginas de internet para cubrir sus necesidades y para seguir desarrollando sus habilidades de cocina, nos va a ayudar bastante a mejorar el diseño de la página y a poder adaptarla para diferentes personas.
+>>> Hemos escogido Josefina como persona, porque pensamos que el hecho de ponernos en la piel de una persona de edad avanzada que está poco familiarizada con internet y que tiene que recurrir a páginas de internet para cubrir sus necesidades y para seguir desarrollando sus habilidades de cocina, nos va a ayudar bastante a mejorar el diseño de la página y a poder adaptarla para diferentes personas. Además los objetivos de Josefina son aprender de cocina, lo cual aporta una perspectiva diferente en comparación con centrarnos solo en rutas gastronómicas. 
 >>>
->>> Por otro lado la segunda persona que hemos escogido es Pablo, una persona que está más familiarizada con las tecnologías que Josefina,
+![Persona_2](P1/Persona_2.png)
+>>> Por otro lado la segunda persona que hemos escogido es Pablo, una persona que está más familiarizada con las tecnologías que Josefina. Pablo busca rutas gastronómicas y conocer mejor los restaurantes y gastronomía de la ciudad. Además Pablo bsuca experiencias en pareja, lo cual nos puede aportar otro tipo de intereses. Hemos elegido a Pablo porque viene de otra ciudad y tiene una gran necesidad de páginas como estas para cumplir con sus objetivos, tener planes de pareja con su novia. 
 >>>
 >>> 
 ![Método UX](img/JourneyMap.png) 1.d User Journey Map
