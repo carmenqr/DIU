@@ -64,9 +64,9 @@ Miembros
 ----
 >>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
 >>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+>>> - Enlace al documento: ![Persona_1](P1/Persona_1.png)
+>>> - Valoración final (numérica): 6,5
+>>> - Comentario sobre la valoración: Valor acorde al análisis realizado en el Competitor Analysis. Esperábamos este resultado ya que la página cumple con las necesidades muy básicas de la mayoría de los usuarios, sin embargo hay unos cuantos aspectos a mejorar para que las experiencias de los mismos sean mejoradas. Los mejores aspectos de la página son en general la página principal, el menu, el contenido en gran parte. Los peores aspectos son la falta de un buscador, las formas de contacto y la falta de ayuda en general, tanto en la página como en los formularios. 
 
 
 ## Paso 2. UX Design  
