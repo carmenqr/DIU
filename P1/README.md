@@ -16,4 +16,5 @@
 ![Usability_Review](Usability_Review.pdf)
 
 
+-Conclusión final y valoraciones:
 En esta etapa hemos podido aclarar los aspectos y objetivos necesarios para llevar a cabo el proyecto, también contamos con dos personas con diferentes carácterísticas para el estudio de aspectos importantes como la usabilidad y así entender lo que el usuario necesita y mejorarlo. Finalmente tras el análisis de la competencia hemos estudiado lo que los demás ofrecen además de seleccionar una web en concreto para mejorar y adaptar completamente a las necesidades de todo tipo de usuarios que busquen experiencias gastronómicas. 
