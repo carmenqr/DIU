@@ -2,7 +2,8 @@
 
 
 
-- User research - (plan) template 
+- User research - (plan) template
+![User_Research](User_Research.pdf)
 - Desk research: Análisis Competencia
 ![Analisis_comp](Competitor_Analysis.png)
 - 2 Personas
