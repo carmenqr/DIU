@@ -28,6 +28,7 @@ Nuestra página web propone una versión combinada de las tradicionales webs sob
 [Bocetos](https://github.com/carmenqr/DIU/tree/master/P2/Bocetos)
 
 * Bocetos Lo-Fi sección Eventos:
+[Documento Task Analysis](Bocetos/BocetoEventos.pdf)
 ![Ordenador](Bocetos/BocetoEventosOrdenador.png)
 ![Ipad](Bocetos/BocetoEventosIpad.png)
 ![Movil](Bocetos/BocetoEventosMovil.png)
