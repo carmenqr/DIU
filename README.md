@@ -5,11 +5,11 @@ Grupo: DIU2_Óscar Picado Cariño y Carmen Quiles Ramírez.  Curso: 2023/24
 Updated: 11/2/2024
 
 Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+SaborGranada
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+Combinación de las diferentes webs típicas de gastronomía. Reservas de restaurantes, talleres, información de recetas, blog interactivo, gestión de puntos para el usuario...
 
 Logotipo: 
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
