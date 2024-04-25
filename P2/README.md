@@ -30,6 +30,7 @@ Nuestra página web propone una versión combinada de las tradicionales webs sob
 * Bocetos Lo-Fi sección Eventos:
   
 [PDF de los tres](Bocetos/BocetoEventos.pdf)
+
 ![Ordenador](Bocetos/BocetoEventosOrdenador.png)
 ![Ipad](Bocetos/BocetoEventosIpad.png)
 ![Movil](Bocetos/BocetoEventosMovil.png)
