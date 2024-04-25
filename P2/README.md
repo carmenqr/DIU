@@ -10,7 +10,7 @@ Nuestra página web propone una versión combinada de las tradicionales webs sob
 
 ### TASK ANALYSIS
 * Task Analysis:
-[Documento Task Analysis](https://docs.google.com/document/d/1KU-3qF6gbejbjt5W5BaDyyEVEoUUSyVWIHr_ezdbA_U/edit?usp=sharing)
+[Documento Task Analysis](Task Analysis.pdf)
 * Tareas: Iniciar sesión, buscar y reservar restaurante.
 ![Task_flow](UserFlow.png)
 
@@ -20,7 +20,7 @@ Nuestra página web propone una versión combinada de las tradicionales webs sob
 * Sitemap
 ![Site_map](SiteMap.png)
 * Labelling:
-[Documento Labelling](https://docs.google.com/document/d/1k0Y5G3-CP5vGMfq1GgvNDAa6CHADBCQjwC7_mIqJQ3g/edit?usp=sharing)
+[Documento Labelling](Labeling.pdf)
 
 
 ### Prototipo Lo-FI Wireframe 
