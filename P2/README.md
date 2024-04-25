@@ -28,4 +28,5 @@ Nuestra página web propone una versión combinada de las tradicionales webs sob
 [Bocetos](https://github.com/carmenqr/DIU/tree/master/P2/Bocetos)
 
 ### Conclusiones  
-(incluye valoración de esta etapa)
+En esta etapa hemos podido profundizar en el diseño y funcionalidades de la web, así como entender cuál es el punto fuerte de nuestra página y el motivo por el que destaca con respecto a las otras en el mercado. 
+Con los diferentes pasos seguidos hemos organizado los puntos claves del diseño en los que hacer incapié y hemos generado unos primeros bocetos y vista de los puntos o acciones clave de la web. 
