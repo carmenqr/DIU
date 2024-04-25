@@ -70,48 +70,45 @@ Miembros
 
 ![Método UX](img/feedback-capture-grid.png) 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
 ----
-
-
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
-
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
-    
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
-
+![Malla_receptora](P2/MallaReceptora.png)
 
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
->>> Propuesta de valor 
+![Scope_Canvas](P2/ScopeCanvas.png)
+
+>>> Nuestra página web propone una versión combinada de las tradicionales webs sobre gastronomía, ofreciendo no solo información sobre restaurantes y la posibilidad de reservar mesa en ellos, sino también talleres para aprender sobre cocina. Además de ofrecer recomendaciones de restaurantes, la reserva se puede realizar de forma rápida, sencilla e intuitiva desde la propia web. Junto con estas opciones, los usuarios podrán consultar nuestro blog, donde como novedad, los usuarios registrados tendrán la posibilidad de publicar sus propias recetas. Además de estas recetas de usuarios, la web ofrecerá una sección adicional con recetas proporcionadas por profesionales. Como característica destacada, la web ofrecerá un sistema de gestión de puntos canjeables en nuestros servicios. Los puntos se obtendrán por reservas, comentarios, publicaciones e incluso por el tiempo de consulta de algunas secciones como el blog. Como novedad, también pretendemos incluir el contacto a través de redes sociales, además de los típicos métodos de contacto.
 
 ![Método UX](img/Sitemap.png) 2.b User Flow (task) analysis 
 -----
-
->>> Definir "User Map" y "Task Flow" ... 
-
+* Task Analysis:
+[Documento Task Analysis](P2/TaskAnalysis.pdf)
+* Tareas: Iniciar sesión, buscar y reservar restaurante.
+![Task_flow](P2/UserFlow.png)
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
 
+* Sitemap
+![Site_map](P2/SiteMap.png)
+* Labelling:
+[Documento Labelling](P2/Labeling.pdf)
 
->>> Identificar términos para diálogo con usuario  
-
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+* Bocetos:
+[Bocetos](https://github.com/carmenqr/DIU/tree/master/P2/Bocetos)
+
+* Bocetos Lo-Fi sección Eventos:
+  
+[PDF de los tres](P2/Bocetos/BocetoEventos.pdf)
+
+![Ordenador](P2/Bocetos/BocetoEventosOrdenador.png)
+![Ipad](P2/Bocetos/BocetoEventosIpad.png)
+![Movil](P2/Bocetos/BocetoEventosMovil.png)
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
