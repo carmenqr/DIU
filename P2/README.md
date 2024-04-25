@@ -25,7 +25,7 @@ https://docs.google.com/document/d/1k0Y5G3-CP5vGMfq1GgvNDAa6CHADBCQjwC7_mIqJQ3g/
 
 ### Prototipo Lo-FI Wireframe 
 * Bocetos:
-![Bocetos](/Bocetos/)
+![Bocetos](P2/Bocetos)
 
 ### Conclusiones  
 (incluye valoración de esta etapa)
