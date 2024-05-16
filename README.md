@@ -129,7 +129,7 @@ Miembros
 ![landig_page](P3/LandingPage.png)
 
 
->>> Plantear Landing Page 
+>>> Este es un diseño visual para promocionar nuetsra app. En el se priorizan los colores de la empresa, el logo y las frases inspiracionales sobre los beneficios de esta propuesta. Queremos mostrar con él que es una app móvil diseñada para reservar en restaurantes y aprender de gastronomía y cocina, ya sea mediante la publicación o consulta de recetas en el blog, o mediante la inscripción en talleres. El constraste de color continuo entre el fondo, la letra y el logo buscan captar la atención del cliente, dejando en esta ocasión a un lado las típicas imágenes que acostumbran a ver en anuncios de estilo similar. 
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
