@@ -11,7 +11,7 @@ Descripción:
 
 
 Logotipo: 
-![Logotipo](P3/logo.png)
+![Logotipo](P3/logo.jpg)
 
 Miembros
  * :bust_in_silhouette:   Carmen Quiles Ramírez    :octocat:     
