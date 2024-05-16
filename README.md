@@ -143,6 +143,10 @@ Miembros
 >>>
 >>> Iconografía:
 >>> Los iconos que hemos escogido para nuestra aplicación son iconos minimalistas. Estos iconos qportan tanto elegancia como sencillez, y dan un aspecto de limpieza a la página web de manera que, aunque su uso sea reiterado, la aplicación no quede cargada de estos iconos.
+>>>
+>>> Layouts HI-FI:
+>>> Usaremos figma con el plugin Material 3: Design Kit, del mismo usaremos los siguientes componentes:
+>>> Hero image + Carousel, Search, Article List, List Item, Icons, Buttons, Cards, Checkboxes, Date pickers, Dialog, Dividers, Floatting Button, Menus, Navigation bar y Sliders. 
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
@@ -156,7 +160,8 @@ Miembros
   <img src="P3/Frame6.png" alt="Image 6" width="200"/>
 </p>
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+>>> Este mockup representa la realización de la tarea _reservar_ en nuestra app. Partimos de la página del restaurante en la que encontramos además de la información general y una valoración por parte de los usuarios, el botón de _realizar reserva_. Automáticamente se redirige al calendario para seleccionar la fecha, a continuación a la hora y por último al número de personas que acudirán a la misma. Finalmente se muestra un resumen de la reserva, en el que se pueden editar los campos seleccionados previamente (el nombre y correo se rellenan por defecto con los datos del usuario que reserva, por tanto ha de estar registrado). Al acabar la reserva se muestra un mensaje final de confirmación.
+
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
