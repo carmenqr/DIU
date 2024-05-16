@@ -146,6 +146,15 @@ Miembros
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
+<p align="center">
+  <img src="P3/Frame1.png" alt="Image 1" width="200"/>
+  <img src="P3/Frame2.png" alt="Image 2" width="200"/>
+  <img src="P3/Frame3.png" alt="Image 3" width="200"/>
+  <img src="P3/Frame4.png" alt="Image 4" width="200"/>
+  <img src="P3/Frame5.png" alt="Image 5" width="200"/>
+  <img src="P3/Frame6.png" alt="Image 6" width="200"/>
+</p>
+
 >>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
 
 
