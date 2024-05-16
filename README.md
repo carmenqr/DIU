@@ -121,7 +121,8 @@ Miembros
 >>>  Para la realización de nuestro MoodBoard hemos utilizado Milanote. Hemos escogido la paleta de colores, el tipo de fuente que va a ser usado en nuestra app, tanto para cabeceras y títulos (PlayFair Display, 44), como para el cuerpo (Lato regular, 20). También se han añadido algunas imágenes a modo de idea del tipo de imágenes que aparecerán en la app. Por otro lado tenemos todos los iconos con funcionalidades básicas y cada uno con uno de los colores que aparecen en la paleta. Por último tenemos nuestros logos en distintos formatos para que se adapten a cualquier tipo de fondo y forma.
 >>>
 >>> Para el logo hemos utilizado Canva. En el queremos representar la dobre posibilidad de realizar reservas como de aprender de cocina, además, la granada representa un jiego de palabras entre la ciudad y la gastronomía
-
+>>>
+>>> Con respecto a la paleta de colores, hemos escogido esos tonos muy similares al blanco [#EDEDED] y al negro [#242424] para que hagan buen contraste con el naranja sin necesidad de sobrecargar la app. Hemos escogido el color naranja [#ECA251] porque es conocido por su capacidad para estimular el apetito, lo cual motiva a la realización de reservas. Es un color que a menudo se asocia con frutas y verduras saludables, como naranjas, zanahorias y calabazas, lo que puede hacer que los alimentos parezcan más atractivos y apetitosos. También es un color enérgico y vibrante que se asocia con la creatividad y la diversión. Para nuestra aplicación, para el caso de los talleres o las recetas, este color puede inspirar a las personas a ser más creativas y experimentar con nuevas recetas e ingredientes. 
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
