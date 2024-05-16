@@ -119,6 +119,8 @@ Miembros
 ![MoodBoard](P3/MoodBoard.png)
 
 >>>  Para la realización de nuestro MoodBoard hemos utilizado Milanote. Hemos escogido la paleta de colores, el tipo de fuente que va a ser usado en nuestra app, tanto para cabeceras y títulos (PlayFair Display, 44), como para el cuerpo (Lato regular, 20). También se han añadido algunas imágenes a modo de idea del tipo de imágenes que aparecerán en la app. Por otro lado tenemos todos los iconos con funcionalidades básicas y cada uno con uno de los colores que aparecen en la paleta. Por último tenemos nuestros logos en distintos formatos para que se adapten a cualquier tipo de fondo y forma.
+>>>
+>>> Para el logo hemos utilizado Canva. En el queremos representar la dobre posibilidad de realizar reservas como de aprender de cocina, además, la granada representa un jiego de palabras entre la ciudad y la gastronomía
 
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
