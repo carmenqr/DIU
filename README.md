@@ -9,10 +9,9 @@ SaborGranada
 
 Descripción: 
 
-Combinación de las diferentes webs típicas de gastronomía. Reservas de restaurantes, talleres, información de recetas, blog interactivo, gestión de puntos para el usuario...
 
 Logotipo: 
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+![Logotipo](P3/logo.png)
 
 Miembros
  * :bust_in_silhouette:   Carmen Quiles Ramírez    :octocat:     
@@ -167,9 +166,7 @@ Miembros
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
 
-
->>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto
+>>> El caso de estudio se muestra a lo largo de este documento, especialmente en el punto 3 y con un breve resumen en la introdución.
 
 
 ## Paso 5. Exportación & evaluación con Eye Tracking 
