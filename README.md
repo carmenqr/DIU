@@ -118,10 +118,6 @@ Miembros
 -----
 ![MoodBoard](P3/MoodBoard.png)
 
-
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
 >>>  Para la realización de nuestro MoodBoard hemos utilizado Milanote. Hemos escogido la paleta de colores, el tipo de fuente que va a ser usado en nuestra app, tanto para cabeceras y títulos (PlayFair Display, 44), como para el cuerpo (Lato regular, 20). También se han añadido algunas imágenes a modo de idea del tipo de imágenes que aparecerán en la app. Por otro lado tenemos todos los iconos con funcionalidades básicas y cada uno con uno de los colores que aparecen en la paleta. Por último tenemos nuestros logos en distintos formatos para que se adapten a cualquier tipo de fondo y forma.
 
 
