@@ -132,9 +132,6 @@ Miembros
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado.
->>>
 >>> Paleta de colores:
 >>> Con respecto a la paleta de colores, hemos escogido esos tonos muy similares al blanco [#EDEDED] y al negro [#242424] para que hagan buen contraste con el naranja sin necesidad de sobrecargar la app. Hemos escogido el color naranja [#ECA251] porque es conocido por su capacidad para estimular el apetito, lo cual motiva a la realización de reservas. Es un color que a menudo se asocia con frutas y verduras saludables, como naranjas, zanahorias y calabazas, lo que puede hacer que los alimentos parezcan más atractivos y apetitosos. También es un color enérgico y vibrante que se asocia con la creatividad y la diversión. Para nuestra aplicación, para el caso de los talleres o las recetas, este color puede inspirar a las personas a ser más creativas y experimentar con nuevas recetas e ingredientes. 
 >>>
