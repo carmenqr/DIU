@@ -11,6 +11,7 @@ Descripción:
 
 
 Logotipo: 
+
 ![Logotipo](P3/logo.jpg)
 
 Miembros
