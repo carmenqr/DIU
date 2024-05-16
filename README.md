@@ -106,11 +106,11 @@ Miembros
   
 [PDF de los tres](P2/Bocetos/BocetoEventos.pdf)
 
-<p align="center">
+
   <img src="P2/Bocetos/BocetoEventosOrdenador.png" alt="Ordenador" width="500"/>
   <img src="P2/Bocetos/BocetoEventosIpad.png" alt="ipad" width="350"/>
   <img src="P2/Bocetos/BocetoEventosMovil.png" alt="Móvil" width="200"/>
-</p>
+
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
