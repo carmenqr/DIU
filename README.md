@@ -116,6 +116,7 @@ Miembros
 
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
+![MoodBoard](P3/MoodBoard.png)
 
 
 >>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
@@ -125,6 +126,7 @@ Miembros
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
+![landig_page](P3/LandingPage.png)
 
 
 >>> Plantear Landing Page 
