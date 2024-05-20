@@ -165,6 +165,7 @@ Miembros
   <img src="P3/Frame 14.png" alt="Image 14" width="200"/>
 </p>
 
+[Ver vídeo animación](P3/LayoutHIFI.mp4)
 <p align="center">
   <video width="320" height="240" controls>
     <source src="P3/LayoutHIFI.mp4" type="video/mp4">
