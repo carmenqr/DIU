@@ -184,7 +184,7 @@ Nuestro viaje comenzó con una investigación exhaustiva del mercado y del usuar
 
 **Investigación y Análisis**
 
-Realizamos un análisis comparativo de las principales webs de gastronomía y descubrimos que, aunque algunas tenían un diseño intuitivo y buenas funcionalidades, carecían de la integración necesaria para ofrecer una experiencia holística. Nos centramos en entender las frustraciones y necesidades de los usuarios a través de metodologías de investigación de usuarios, como el análisis competitivo y la creación de perfiles de usuarios (personas).
+Realizamos un análisis comparativo de las principales webs de gastronomía y descubrimos que, aunque algunas tenían un diseño intuitivo y buenas funcionalidades, carecían de la integración necesaria para ofrecer una experiencia global. Nos centramos en entender las frustraciones y necesidades de los usuarios a través de metodologías de investigación de usuarios, como el análisis competitivo y la creación de perfiles de usuarios (personas).
 
 **Diseño Centrado en el Usuario**
 
@@ -196,11 +196,11 @@ El diseño de SaborGranada se basó en principios de usabilidad y accesibilidad,
 
 **Implementación y Resultados**
 
-El resultado final es una página web que combina lo mejor de ambos mundos: la facilidad de encontrar y reservar en los mejores restaurantes de Granada y la oportunidad de aprender y compartir conocimientos culinarios. La gestión de puntos canjeables y la integración con redes sociales facilitan la interacción continua de los usuarios con la plataforma, fomentando una comunidad activa y comprometida.
+El resultado final es una página web (o una app) que combina lo mejor de ambos mundos: la facilidad de encontrar y reservar en los mejores restaurantes de Granada y la oportunidad de aprender y compartir conocimientos culinarios. La gestión de puntos canjeables y la integración con redes sociales facilitan la interacción continua de los usuarios con la plataforma, fomentando una comunidad activa y comprometida.
 
 **Conclusión**
 
-SaborGranada no es solo una página web, es una experiencia gastronómica integral diseñada para satisfacer las necesidades de diversos usuarios. Desde la fácil navegación para personas mayores hasta las funciones avanzadas para los más jóvenes, nuestro producto ofrece una solución completa que destaca en el mercado. Con una interfaz intuitiva, contenido rico y características innovadoras, SaborGranada se posiciona como una herramienta esencial para cualquier amante de la gastronomía.
+SaborGranada no es solo una página web o app, es una experiencia gastronómica integral diseñada para satisfacer las necesidades de diversos usuarios. Desde la fácil navegación para personas mayores hasta las funciones avanzadas para los más jóvenes, nuestro producto ofrece una solución completa que destaca en el mercado. Con una interfaz intuitiva, contenido rico y características innovadoras, SaborGranada se posiciona como una herramienta esencial para cualquier amante de la gastronomía.
 
 En resumen, SaborGranada es el resultado de un proceso de diseño meticuloso y centrado en el usuario, que integra múltiples servicios en una plataforma cohesiva y atractiva. Estamos orgullosos de presentar un producto que no solo cumple, sino que supera las expectativas de nuestros usuarios, haciendo de cada visita una experiencia memorable.
 
