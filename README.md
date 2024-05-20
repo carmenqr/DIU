@@ -174,8 +174,35 @@ Miembros
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
 
->>> El caso de estudio se muestra a lo largo de este documento, especialmente en el punto 3 y con un breve resumen en la introdución.
+**Introducción**
 
+En el competitivo mundo digital actual, ofrecer una experiencia única y completa al usuario es clave para destacar. Con SaborGranada, hemos creado una plataforma integral dedicada a las experiencias gastronómicas en Granada, fusionando lo mejor de las recomendaciones de restaurantes, la reserva de mesas y la enseñanza culinaria. Aquí, te contamos cómo hemos llegado a desarrollar este producto excepcional, diseñado para satisfacer las necesidades tanto de los amantes de la gastronomía como de aquellos que desean aprender y explorar nuevas recetas.
+
+**Identificación de la Necesidad**
+
+Nuestro viaje comenzó con una investigación exhaustiva del mercado y del usuario. Observamos que muchas páginas web dedicadas a la gastronomía se centraban únicamente en uno o dos aspectos, ya sea en la reserva de restaurantes o en la oferta de talleres de cocina, pero no en ambos. Identificamos una oportunidad para crear una solución que integrara estos servicios, brindando a los usuarios una experiencia más completa y enriquecedora.
+
+**Investigación y Análisis**
+
+Realizamos un análisis comparativo de las principales webs de gastronomía y descubrimos que, aunque algunas tenían un diseño intuitivo y buenas funcionalidades, carecían de la integración necesaria para ofrecer una experiencia holística. Nos centramos en entender las frustraciones y necesidades de los usuarios a través de metodologías de investigación de usuarios, como el análisis competitivo y la creación de perfiles de usuarios (personas).
+
+**Diseño Centrado en el Usuario**
+
+Elegimos como referencia a dos usuarios tipo: Josefina, una persona mayor interesada en aprender nuevas recetas, y Pablo, un joven que busca experiencias gastronómicas para disfrutar en pareja. Estos perfiles nos permitieron diseñar una interfaz accesible y funcional para diferentes tipos de usuarios. La inclusión de un sistema de puntos canjeables y un blog interactivo donde los usuarios pueden publicar sus propias recetas añadió un valor significativo a nuestra plataforma.
+
+**Proceso de Diseño**
+
+El diseño de SaborGranada se basó en principios de usabilidad y accesibilidad, asegurándonos de que la navegación fuera intuitiva y que los usuarios pudieran realizar sus tareas de manera eficiente. A través de wireframes, mapas del sitio y bocetos, fuimos refinando nuestra visión hasta llegar a un producto que no solo fuera funcional, sino también atractivo visualmente.
+
+**Implementación y Resultados**
+
+El resultado final es una página web que combina lo mejor de ambos mundos: la facilidad de encontrar y reservar en los mejores restaurantes de Granada y la oportunidad de aprender y compartir conocimientos culinarios. La gestión de puntos canjeables y la integración con redes sociales facilitan la interacción continua de los usuarios con la plataforma, fomentando una comunidad activa y comprometida.
+
+**Conclusión**
+
+SaborGranada no es solo una página web, es una experiencia gastronómica integral diseñada para satisfacer las necesidades de diversos usuarios. Desde la fácil navegación para personas mayores hasta las funciones avanzadas para los más jóvenes, nuestro producto ofrece una solución completa que destaca en el mercado. Con una interfaz intuitiva, contenido rico y características innovadoras, SaborGranada se posiciona como una herramienta esencial para cualquier amante de la gastronomía.
+
+En resumen, SaborGranada es el resultado de un proceso de diseño meticuloso y centrado en el usuario, que integra múltiples servicios en una plataforma cohesiva y atractiva. Estamos orgullosos de presentar un producto que no solo cumple, sino que supera las expectativas de nuestros usuarios, haciendo de cada visita una experiencia memorable.
 
 ## Paso 5. Exportación & evaluación con Eye Tracking 
 
