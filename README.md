@@ -154,12 +154,14 @@ Miembros
 ----
 
 <p align="center">
-  <img src="P3/Frame1.png" alt="Image 1" width="200"/>
-  <img src="P3/Frame2.png" alt="Image 2" width="200"/>
-  <img src="P3/Frame3.png" alt="Image 3" width="200"/>
-  <img src="P3/Frame4.png" alt="Image 4" width="200"/>
-  <img src="P3/Frame5.png" alt="Image 5" width="200"/>
-  <img src="P3/Frame6.png" alt="Image 6" width="200"/>
+  <img src="P3/Frame 1.png" alt="Image 1" width="200"/>
+  <img src="P3/Frame 2.png" alt="Image 2" width="200"/>
+  <img src="P3/Frame 3.png" alt="Image 3" width="200"/>
+  <img src="P3/Frame 4.png" alt="Image 4" width="200"/>
+  <img src="P3/Frame 5.png" alt="Image 5" width="200"/>
+  <img src="P3/Frame 6.png" alt="Image 6" width="200"/>
+  <img src="P3/Frame 13.png" alt="Image 13" width="200"/>
+  <img src="P3/Frame 14.png" alt="Image 14" width="200"/>
 </p>
 
 >>> Este mockup representa la realización de la tarea _reservar_ en nuestra app. Partimos de la página del restaurante en la que encontramos además de la información general y una valoración por parte de los usuarios, el botón de _realizar reserva_. Automáticamente se redirige al calendario para seleccionar la fecha, a continuación a la hora y por último al número de personas que acudirán a la misma. Finalmente se muestra un resumen de la reserva, en el que se pueden editar los campos seleccionados previamente (el nombre y correo se rellenan por defecto con los datos del usuario que reserva, por tanto ha de estar registrado). Al acabar la reserva se muestra un mensaje final de confirmación.
