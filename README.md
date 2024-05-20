@@ -148,7 +148,25 @@ Miembros
 >>>
 >>> Layouts HI-FI:
 >>> Usaremos figma con el plugin Material 3: Design Kit, del mismo usaremos los siguientes componentes:
->>> Hero image + Carousel, Search, Article List, List Item, Icons, Buttons, Cards, Checkboxes, Date pickers, Dialog, Dividers, Floatting Button, Menus, Navigation bar y Sliders. 
+>>> Hero image + Carousel, Search, Article List, List Item, Icons, Buttons, Cards, Checkboxes, Date pickers, Dialog, Dividers, Floatting Button, Menus, Navigation bar y Sliders.
+>>>
+>>> Carousel: Los hemos usado para añadir imágenes que el usuario pueda desplazarse horizontalmente de unas a otras. Implementamos el carrusel tanto en la página de inicio, para que el usuario pueda elegir a qué apartado de la app dirigirse, como dentro de las reservas de cada restaurante para que pueda ver fotografías de este. Los carruseles dentro de nuestra página son de gran tamaño ya que consideramos las imágenes importantes y orientativas para la toma de decisiones del usuario en la aplicación.
+
+>>> List: Las listas permiten al usuario elegir en algunos apartados la opción deseada. Por ejemplo, en la realización de la reserva, el usuario debe poder elegir para cuántas personas se va a realizar dicha reserva. En el perfil, los datos del usuario se visualizan en una lista también. El tamaño de estas se adapta según la cantidad de ítems, pero nunca llegando a ser demasiado grande.
+>>>
+>>> Checkboxes: Estas cajas están presentes dentro de algunas listas donde se debe seleccionar una opción. Por ejemplo, en la lista de la selección del horario de la reserva, se marca cuál está seleccionada en ese momento. Son elementos pequeños pero muy visibles para que sea sencillo marcarlos.
+>>>
+>>>Date pickers: El date picker se implementa para la selección de la fecha de la reserva del restaurante. Ocupa prácticamente toda la pantalla, debido a que es un elemento muy importante a la hora de realizar una reserva.
+>>>
+>>> Floating button: Este botón permite al usuario iniciar una acción. En nuestra app, el botón de reservar lleva al inicio del proceso de reserva. Estos botones son suficientemente visibles para los usuarios y llamativos, de forma que el usuario no tenga problemas en verlos para realizar la acción.
+>>>
+>>> Menús: El componente menú sirve para el menú de nuestra app, que es un menú desplegable a través de una flecha que hay siempre al lado del nombre o del logo de SaborGranada. El menú desplegable, una vez visible, tiene un tamaño adecuado para poder leerlo de manera clara.
+>>>
+>>> Divider: Los divisores se utilizan únicamente por cuestión de diseño y legibilidad en algunas listas y menús de nuestra aplicación, para separar de forma visual los distintos ítems de una lista o un menú. También están presentes en la división de la página con el "pie de página".
+>>>
+>>> Cards: Este componente se usa para el resumen de la realización de la reserva, ocupando una gran parte de la pantalla para que la información principal destaque y no haya otros componentes que puedan distraer al usuario.
+>>> 
+>>>Items: Los ítems juegan un papel importante en la interacción del usuario con la página, ya que muchos de ellos se utilizan como botones. La flecha continúa hacia adelante dentro del proceso de reserva. Luego, al lado del nombre, hay una flecha que despliega el menú. Ítems como la lupa (búsqueda), el calendario (reservas) y el símbolo de usuario (inicio de sesión/ver perfil) aparecen como un menú en la parte inferior de nuestro móvil, sin importar la página en la que te encuentres, ya que son funcionalidades muy útiles dentro de la app. Estos íconos tienen un tamaño adecuado para que no molesten en las demás páginas, pero se puedan ver de manera clara.
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
