@@ -166,11 +166,6 @@ Miembros
 </p>
 
 [Ver vídeo animación](P3/LayoutHIFI.mp4)
-<p align="center">
-  <video width="320" height="240" controls>
-    <source src="P3/LayoutHIFI.mp4" type="video/mp4">
-  </video>
-</p>
 
 >>> Este mockup representa la realización de la tarea _reservar_ en nuestra app. Partimos de la página del restaurante en la que encontramos además de la información general y una valoración por parte de los usuarios, el botón de _realizar reserva_. Automáticamente se redirige al calendario para seleccionar la fecha, a continuación a la hora y por último al número de personas que acudirán a la misma. Finalmente se muestra un resumen de la reserva, en el que se pueden editar los campos seleccionados previamente (el nombre y correo se rellenan por defecto con los datos del usuario que reserva, por tanto ha de estar registrado). Al acabar la reserva se muestra un mensaje final de confirmación.
 
