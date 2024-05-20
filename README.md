@@ -152,6 +152,7 @@ Miembros
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
+[Enlace a figma](https://www.figma.com/design/uwFSMnlWorFbFk6j1MGKhk/Gideline-o-layout?node-id=54819%3A26957&t=dwR3rdxcHT28azl1-1)
 
 <p align="center">
   <img src="P3/Frame 1.png" alt="Image 1" width="200"/>
