@@ -261,6 +261,8 @@ Resultados y valoración
 
 
 >>> Breve descripción del caso asignado con enlace a  su repositorio Github
+>>> Sabor Artesanal es una página web que ofrece talleres de cocina de todo tipo. Cuenta con calendario y un sistema de gestión de reservas, así como la consulta de las mismas desde tu perfil.
+>>> DIU2_kebabmixto https://github.com/heleniya/DIU.kebabmixto
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
