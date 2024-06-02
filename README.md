@@ -299,7 +299,7 @@ Y a continuación en el recuadro amarillo podemos ver las áreas de interés:
   <img src="img/calor8.png" alt="Image 8" width="200"/>
   <img src="img/calor9.png" alt="Image 5" width="200"/>
   <img src="img/calor10.png" alt="Image 6" width="200"/>
-  <img src="img/calor11png" alt="Image 7" width="200"/>
+  <img src="img/calor11.png" alt="Image 7" width="200"/>
   <img src="img/calor12.png" alt="Image 8" width="200"/>
 </p>
 
