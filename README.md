@@ -85,7 +85,7 @@ Miembros
 -----
 * Task Analysis:
 [Documento Task Analysis](P2/TaskAnalysis.pdf)
-* Tareas: Iniciar sesión, buscar y reservar restaurante.
+* Táreas: Iniciar sesión, buscar y reservar restaurante.
 ![Task_flow](P2/UserFlow.png)
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
@@ -185,7 +185,7 @@ Miembros
 
 [Ver vídeo animación](P3/LayoutHIFI.mp4)
 
->>> Este mockup representa la realización de la tarea _reservar_ en nuestra app. Partimos de la página del restaurante en la que encontramos además de la información general y una valoración por parte de los usuarios, el botón de _realizar reserva_. Automáticamente se redirige al calendario para seleccionar la fecha, a continuación a la hora y por último al número de personas que acudirán a la misma. Finalmente se muestra un resumen de la reserva, en el que se pueden editar los campos seleccionados previamente (el nombre y correo se rellenan por defecto con los datos del usuario que reserva, por tanto ha de estar registrado). Al acabar la reserva se muestra un mensaje final de confirmación.
+>>> Este mockup representa la realización de la tárea _reservar_ en nuestra app. Partimos de la página del restaurante en la que encontramos además de la información general y una valoración por parte de los usuarios, el botón de _realizar reserva_. Automáticamente se redirige al calendario para seleccionar la fecha, a continuación a la hora y por último al número de personas que acudirán a la misma. Finalmente se muestra un resumen de la reserva, en el que se pueden editar los campos seleccionados previamente (el nombre y correo se rellenan por defecto con los datos del usuario que reserva, por tanto ha de estar registrado). Al acabar la reserva se muestra un mensaje final de confirmación.
 
 
 
@@ -210,7 +210,7 @@ Elegimos como referencia a dos usuarios tipo: Josefina, una persona mayor intere
 
 **Proceso de Diseño**
 
-El diseño de SaborGranada se basó en principios de usabilidad y accesibilidad, asegurándonos de que la navegación fuera intuitiva y que los usuarios pudieran realizar sus tareas de manera eficiente. A través de wireframes, mapas del sitio y bocetos, fuimos refinando nuestra visión hasta llegar a un producto que no solo fuera funcional, sino también atractivo visualmente.
+El diseño de SaborGranada se basó en principios de usabilidad y accesibilidad, asegurándonos de que la navegación fuera intuitiva y que los usuarios pudieran realizar sus táreas de manera eficiente. A través de wireframes, mapas del sitio y bocetos, fuimos refinando nuestra visión hasta llegar a un producto que no solo fuera funcional, sino también atractivo visualmente.
 
 **Implementación y Resultados**
 
@@ -234,14 +234,12 @@ Exportación a HTML/Flutter
 Diseño del experimento 
 ----
 
->> Uso de imágenes (preferentemente) -> hay que esablecer una duración de visualización y  
->> fijar las áreas de interes (AoI) antes del diseño. Planificar qué tarea debe hacer el usuario (buscar, comprar...)
->> Para el estudio mediante EyeTracking hemos utilizado gazerecorder.com, donde se nos permite usar tecnologías para marcar areas de interés y luego hacer un seguimiento de la vista generando así un mapa de calor para mostrar si los usuarios realmente fijan su mirada en los sitios realmente importantes de la aplicación.
+>> Para el estudio mediante EyeTracking hemos utilizado gazerecorder.com, donde se nos permite usar tecnologías para marcar áreas de interés y luego hacer un seguimiento de la vista generando así un mapa de calor para mostrar si los usuarios realmente fijan su mirada en los sitios realmente importantes de la aplicación.
 >> 
 >> Este estudio, lo hemos realizado tanto para nuestra aplicación (SaborGranada) como para la aplicación que se nos asignó de los compañeros (sabor Artesanal).
 >> 
->> En primer lugar vamos a mostrar los resultados obtenidos para nuestra app. El estudio está centrado en la tarea de reservar.
->> En las siguientes imágenes se pueden ver las areas donde se ha centrado el usuario al hacer una reserva.
+>> En primer lugar vamos a mostrar los resultados obtenidos para nuestra app. El estudio está centrado en la tárea de reservar.
+>> En las siguientes imágenes se pueden ver las áreas donde se ha centrado el usuario al hacer una reserva.
 
 <p align="center">
   <img src="img/calor1A.png" alt="Image 1" width="200"/>
@@ -254,7 +252,7 @@ Diseño del experimento
   <img src="img/calor8A.png" alt="Image 8" width="200"/>
 </p>
 
-Y a continuación en el recuadro amarillo podemos ver las areas de interés:
+Y a continuación en el recuadro amarillo podemos ver las áreas de interés:
 
 <p align="center">
   <img src="img/AoI_1A.png" alt="Image 1" width="200"/>
@@ -268,7 +266,44 @@ Y a continuación en el recuadro amarillo podemos ver las areas de interés:
 </p>
 
 
-Como se puede observar en las imágenes y nos muestran los datos que hay en las imágenes donde se encuentran marcadas las areas de interés, el usuario ha pasado gran parte del tiempo mirando en estas zonas lo que nos lleva a concluir que el diseño de la interfaz de nuestra applicación para realizar reservas es un diseño sencillo y bastante intuitivo.
+>> Como se puede observar en las imágenes y nos muestran los datos que hay en las imágenes donde se encuentran marcadas las áreas de interés, el usuario ha pasado gran parte del tiempo mirando en estas zonas lo que nos lleva a concluir que el diseño de la interfaz de nuestra applicación para realizar reservas es un diseño sencillo y bastante intuitivo.
+>>
+>> A continuación realizamos el mismo experimento para la aplicación Sabor Artesanal obteniendo los siguientes mapas de calor:
+>>
+<p align="center">
+  <img src="img/aoi1.png" alt="Image 1" width="200"/>
+  <img src="img/aoi2.png" alt="Image 2" width="200"/>
+  <img src="img/aoi3.png" alt="Image 3" width="200"/>
+  <img src="img/aoi4.png" alt="Image 4" width="200"/>
+  <img src="img/aoi5.png" alt="Image 5" width="200"/>
+  <img src="img/aoi6.png" alt="Image 6" width="200"/>
+  <img src="img/aoi7.png" alt="Image 7" width="200"/>
+  <img src="img/aoi8.png" alt="Image 8" width="200"/>
+  <img src="img/aoi9.png" alt="Image 5" width="200"/>
+  <img src="img/aoi10.png" alt="Image 6" width="200"/>
+  <img src="img/aoi11.png" alt="Image 7" width="200"/>
+  <img src="img/aoi12.png" alt="Image 8" width="200"/>
+</p>
+
+>>  Y marcando como áreas de interés las siguientes:
+
+
+<p align="center">
+  <img src="img/calor1.png" alt="Image 1" width="200"/>
+  <img src="img/calor2.png" alt="Image 2" width="200"/>
+  <img src="img/calor3.png" alt="Image 3" width="200"/>
+  <img src="img/calor4.png" alt="Image 4" width="200"/>
+  <img src="img/calor5.png" alt="Image 5" width="200"/>
+  <img src="img/calor6.png" alt="Image 6" width="200"/>
+  <img src="img/calor7.png" alt="Image 7" width="200"/>
+  <img src="img/calor8.png" alt="Image 8" width="200"/>
+  <img src="img/calor9.png" alt="Image 5" width="200"/>
+  <img src="img/calor10.png" alt="Image 6" width="200"/>
+  <img src="img/calor11png" alt="Image 7" width="200"/>
+  <img src="img/calor12.png" alt="Image 8" width="200"/>
+</p>
+
+
 ![experimento](img/experimentoET.png)  
 >> cambiar img por tu diseño de experimento  
 
