@@ -237,7 +237,16 @@ Diseño del experimento
 >> Uso de imágenes (preferentemente) -> hay que esablecer una duración de visualización y  
 >> fijar las áreas de interes (AoI) antes del diseño. Planificar qué tarea debe hacer el usuario (buscar, comprar...) 
 
-
+<p align="center">
+  <img src="P3/Frame 1.png" alt="Image 1" width="200"/>
+  <img src="P3/Frame 2.png" alt="Image 2" width="200"/>
+  <img src="P3/Frame 3.png" alt="Image 3" width="200"/>
+  <img src="P3/Frame 4.png" alt="Image 4" width="200"/>
+  <img src="P3/Frame 5.png" alt="Image 5" width="200"/>
+  <img src="P3/Frame 6.png" alt="Image 6" width="200"/>
+  <img src="P3/Frame 13.png" alt="Image 13" width="200"/>
+  <img src="P3/Frame 14.png" alt="Image 14" width="200"/>
+</p>
 ![experimento](img/experimentoET.png)  
 >> cambiar img por tu diseño de experimento  
 
