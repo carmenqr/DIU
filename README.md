@@ -346,7 +346,7 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 
 >>> Adjuntar captura de imagen con los resultados + Valoración personal
 >>>
-<img src="img/SUS.png" width="200"/>
+<img src="img/SUS.png">
 
 
 
