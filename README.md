@@ -224,13 +224,6 @@ En resumen, SaborGranada es el resultado de un proceso de diseño meticuloso y c
 
 ## Paso 5. Exportación & evaluación con Eye Tracking 
 
-Exportación a HTML/Flutter
------
-
-![Método UX](img/eye-tracking.png))  5.b Eye Tracking method 
-
->>> Indica cómo diseñas experimento y reclutas usuarios (uso de gazerecorder.com)  
-
 Diseño del experimento 
 ----
 
@@ -339,9 +332,6 @@ Resultados y valoración
 
 ![Método UX](img/Survey.png) 4.c Cuestionario SUS
 ----
-
->>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
 
 <img src="img/SUS.png">
 
