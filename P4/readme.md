@@ -7,7 +7,7 @@ Elección y características
 
 * A/B Testing.
   
-[Resultados SUS](Cuestionario SUS DIU.xlsx - Sheet1-CAOS.pdf)
+[Resultados SUS](Cuestionario\SUS\DIU.xlsx-Sheet1-CAOS.pdf)
 
 * Tareas realizadas
   
