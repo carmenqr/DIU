@@ -344,7 +344,10 @@ Resultados y valoración
 http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
 Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
 
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
+>>> Adjuntar captura de imagen con los resultados + Valoración personal
+>>>
+<img src="img/Cuestionario SUS DIU.xldx - Sheet1-CAOS.pdf" width="200"/>
+
 
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
