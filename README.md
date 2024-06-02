@@ -324,7 +324,7 @@ Resultados y valoración
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
->>> 
+>>> Hemos escogido dos personas diferentes para cada caso a estudiar. En ambos casos se trata de un hombre y una mujer de diferentes edades. Se ha buscado abarcar la mayor cantidad de rangos de edad y características de los usuarios elegidos, como diferente experiencia en internet o personalidad, haciendo muy variadas las necesidades de cada uno. 
  
 
 | Usuario  | Sexo/edad | Ocupación  | Experiencia internet | Plataforma | Perfil cubierto | Test | SUS score |
