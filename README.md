@@ -252,7 +252,7 @@ Diseño del experimento
   <img src="img/calor8A.png" alt="Image 8" width="200"/>
 </p>
 
-Y a continuación en el recuadro amarillo podemos ver las áreas de interés:
+>>Y a continuación en el recuadro amarillo podemos ver las áreas de interés:
 
 <p align="center">
   <img src="img/AoI_1A.png" alt="Image 1" width="200"/>
@@ -303,20 +303,12 @@ Y a continuación en el recuadro amarillo podemos ver las áreas de interés:
   <img src="img/calor12.png" alt="Image 8" width="200"/>
 </p>
 
-
-![experimento](img/experimentoET.png)  
->> cambiar img por tu diseño de experimento  
-
->> Recordar que gazerecorder es una versión de pruebas: usar sólo con 3 usuarios para generar mapa de calor (recordar que crédito > 0 para que funcione) 
-
 Resultados y valoración 
------
+>>Después de realizar el seguimiento ocular (EyeTracking), hemos observado que las zonas de calor están principalmente concentradas en los puntos críticos donde la aplicación necesita captar la atención del usuario, como los botones de acción y la información relevante. Esta distribución sugiere que el diseño de la interfaz de usuario está efectivamente guiando la atención del usuario hacia las áreas clave de interacción y contenido.
 
+>>En general, el análisis de EyeTracking para ambas aplicaciones arroja resultados positivos. Las áreas de mayor interés visual coinciden con los elementos importantes que los usuarios deben percibir y con los que interactuar para utilizar la aplicación de manera efectiva. Este hallazgo respalda la eficacia del diseño en términos de usabilidad y experiencia del usuario, ya que las áreas de enfoque visual se alinean con los objetivos de diseño de la aplicación.
 
-
->> Cambiar por tus resultados
-![Resultado](img/resultadoET.png)  
-
+>>Estos resultados refuerzan la impresión general de que la aplicación tiene un enfoque efectivo en la presentación de información y elementos de interacción, lo que facilita la navegación y el uso para los usuarios. Sin embargo, siempre hay margen para la mejora continua y la optimización del diseño con base en los hallazgos obtenidos en este estudio de EyeTracking.
 
 
 ## Paso 4. Evaluación 
