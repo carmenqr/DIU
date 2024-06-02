@@ -356,20 +356,20 @@ En resumen, si bien la aplicación actual cumple con ciertas expectativas de usa
 5.) Conclusion de EVALUACION (A/B testing + usability report + eye tracking) 
 ----
 
+>> El estudio de usabilidad realizado sobre la aplicación "Sabor Artesanal" incluyó técnicas de A/B testing, eye tracking y un cuestionario SUS para evaluar la experiencia del usuario. En el A/B testing, se compararon dos versiones de la aplicación con diferentes usuarios, observando cómo cada uno interactuaba con las funcionalidades clave, como la reserva de talleres. Los resultados mostraron que la mayoría de los usuarios pudieron completar las tareas con éxito, aunque los usuarios de mayor edad y con menos experiencia en internet encontraron ciertas dificultades.
 
->> recupera el usability report de tu práctica (que es el caso B de los asignados a otros grupos) 
->> con los resultados del A/B testing, de eye tracking y del usability report:
->>  comentad en 2-3 parrafos cual es la conclusion acerca de la realización de la práctica y su evaluación con esas técnicas y que habéis aprendido
+>>El método de eye tracking, utilizando gazerecorder.com, reveló que las áreas de mayor interés visual coincidían con los elementos importantes de la interfaz, como botones de acción y áreas de información relevante. Los mapas de calor generados mostraron que el diseño de la interfaz guiaba efectivamente la atención del usuario hacia las zonas críticas de interacción, sugiriendo una buena usabilidad del diseño.
 
+>>El cuestionario SUS proporcionó una valoración cuantitativa de la usabilidad, con puntuaciones de 85 para Rosa y 65 para Fernando. Estos resultados indican que mientras los usuarios más jóvenes y con más experiencia en internet encontraron la aplicación fácil de usar y bien integrada, los usuarios mayores y con menos experiencia tuvieron más dificultades, aunque no insuperables.
 
-
+>>En conclusión, las técnicas empleadas demostraron que "Sabor Artesanal" tiene un diseño intuitivo y eficaz en general, aunque se identificaron áreas para mejora continua, especialmente para acomodar mejor a usuarios con menos experiencia tecnológica.
 
 
 
 ## Conclusión final / Valoración de las prácticas
 
 
->>> (90-150 palabras) Opinión FINAL del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
+>>> El proceso de desarrollo de diseño siguiendo la metodología UX para "Sabor Artesanal" ha sido en general positivo. Utilizar técnicas como A/B testing, eye tracking y el cuestionario SUS ha permitido obtener una comprensión profunda de la experiencia del usuario y cómo mejorarla. La práctica ha demostrado que un enfoque centrado en el usuario puede revelar áreas críticas para la mejora y optimización del diseño. Aunque algunos usuarios enfrentaron desafíos, especialmente aquellos con menos experiencia en internet, las técnicas de UX han proporcionado un camino claro para abordar estas cuestiones y mejorar la accesibilidad y usabilidad de la aplicación. En resumen, la metodología UX ha sido efectiva para evaluar y mejorar la experiencia del usuario en estas prácticas. 
 
 
 
