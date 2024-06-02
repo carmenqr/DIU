@@ -317,8 +317,6 @@ Resultados y valoración
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
 ----
 
-
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
 >>> Sabor Artesanal es una página web que ofrece talleres de cocina de todo tipo. Cuenta con calendario y un sistema de gestión de reservas, así como la consulta de las mismas desde tu perfil.
 >>> DIU2_kebabmixto https://github.com/heleniya/DIU.kebabmixto
 
@@ -326,7 +324,7 @@ Resultados y valoración
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
->>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
+>>> 
  
 
 | Usuario  | Sexo/edad | Ocupación  | Experiencia internet | Plataforma | Perfil cubierto | Test | SUS score |
