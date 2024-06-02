@@ -350,11 +350,14 @@ http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-t
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
->> Añadir report de usabilidad para práctica B (la de los compañeros)
+En el [informe de usabilidad](Informe_usabilidad-SaborArtesanal.pdf) podemos observar cómo se ha analizado el caso y los pasos llevados a cabo para el mismo, desde la experiencia de los usuarios, pasando por el eyeTracking hasta el cuestionario SUS y sus resultados.
 
+* Conclusiones
+Basándonos en los resultados obtenidos a través del cuestionario SUS, el análisis de las tareas realizadas y la evaluación de la usabilidad mediante EyeTracking, podemos concluir que la aplicación final no está mal. Si bien observamos algunas áreas de mejora, especialmente para usuarios de mayor edad y menor experiencia con la tecnología, en general, la interfaz parece ser intuitiva y fácil de usar para aquellos más familiarizados con las herramientas digitales.
 
+Sin embargo, para abordar las necesidades de usuarios menos experimentados, podríamos considerar implementar algunas mejoras en la interfaz de usuario, como simplificar los procesos, proporcionar más orientación o agregar funciones de ayuda.
 
->>> Valoración personal 
+En resumen, si bien la aplicación actual cumple con ciertas expectativas de usabilidad, existen oportunidades para mejorar la experiencia del usuario, especialmente para aquellos con menos experiencia en tecnología.
 
 
 
