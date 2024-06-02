@@ -235,18 +235,36 @@ Diseño del experimento
 ----
 
 >> Uso de imágenes (preferentemente) -> hay que esablecer una duración de visualización y  
->> fijar las áreas de interes (AoI) antes del diseño. Planificar qué tarea debe hacer el usuario (buscar, comprar...) 
+>> fijar las áreas de interes (AoI) antes del diseño. Planificar qué tarea debe hacer el usuario (buscar, comprar...)
+>> Para el estudio mediante EyeTracking hemos utilizado gazerecorder.com, donde se nos permite usar tecnologías para marcar areas de interés y luego hacer un seguimiento de la vista generando así un mapa de calor para mostrar si los usuarios realmente fijan su mirada en los sitios realmente importantes de la aplicación.
+>> Este estudio, lo hemos realizado tanto para nuestra aplicación (SaborGranada) como para la aplicación que se nos asignó de los compañeros (sabor Artesanal).
+>> En primer lugar vamos a mostrar los resultados obtenidos para nuestra app. El estudio está centrado en la tarea de reservar.
+>> En las siguientes imágenes se pueden ver las areas donde se ha centrado el usuario al hacer una reserva.
 
 <p align="center">
-  <img src="P3/Frame 1.png" alt="Image 1" width="200"/>
-  <img src="P3/Frame 2.png" alt="Image 2" width="200"/>
-  <img src="P3/Frame 3.png" alt="Image 3" width="200"/>
-  <img src="P3/Frame 4.png" alt="Image 4" width="200"/>
-  <img src="P3/Frame 5.png" alt="Image 5" width="200"/>
-  <img src="P3/Frame 6.png" alt="Image 6" width="200"/>
-  <img src="P3/Frame 13.png" alt="Image 13" width="200"/>
-  <img src="P3/Frame 14.png" alt="Image 14" width="200"/>
+  <img src="img/AoI_1A.png" alt="Image 1" width="200"/>
+  <img src="img/AoI_2A.png" alt="Image 2" width="200"/>
+  <img src="img/AoI_3A.png" alt="Image 3" width="200"/>
+  <img src="img/AoI_4A.png" alt="Image 4" width="200"/>
+  <img src="img/AoI_5A.png" alt="Image 5" width="200"/>
+  <img src="img/AoI_6A.png" alt="Image 6" width="200"/>
+  <img src="img/AoI_7A.png" alt="Image 7" width="200"/>
+  <img src="img/AoI_8A.png" alt="Image 8" width="200"/>
 </p>
+
+Y a continuación en el recuadro amarillo podemos ver las areas de interés:
+<p align="center">
+  <img src="img/calor1A.png" alt="Image 1" width="200"/>
+  <img src="img/calor2A.png" alt="Image 2" width="200"/>
+  <img src="img/calor3A.png" alt="Image 3" width="200"/>
+  <img src="img/calor4A.png" alt="Image 4" width="200"/>
+  <img src="img/calor5A.png" alt="Image 5" width="200"/>
+  <img src="img/calor6A.png" alt="Image 6" width="200"/>
+  <img src="img/calor7A.png" alt="Image 7" width="200"/>
+  <img src="img/calor8A.png" alt="Image 8" width="200"/>
+</p>
+
+Como se puede observar en las imágenes y nos muestran los datos que hay en las imágenes donde se encuentran marcadas las areas de interés, el usuario ha pasado gran parte del tiempo mirando en estas zonas lo que nos lleva a concluir que el diseño de la interfaz de nuestra applicación para realizar reservas es un diseño sencillo y bastante intuitivo.
 ![experimento](img/experimentoET.png)  
 >> cambiar img por tu diseño de experimento  
 
