@@ -329,12 +329,13 @@ Resultados y valoración
 >>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
  
 
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| Usuario  | Sexo/edad | Ocupación  | Experiencia internet | Plataforma | Perfil cubierto | Test | SUS score |
+|----------|-----------|------------|----------------------|------------|-----------------|------|-----------|
+| Lucía    | M/15      | Estudiante | Alta                 | IOS        | Enfadada        | A    | 90        |
+| Pepe     | H/64      | Jubilado   | Baja                 | Windows    | Sorprendido     | A    | 67,5      |
+| Rosa     | M/33      | Profesora  | Alta                 | Android    | Disgustada      | B    | 85        |
+| Fernando | H/59      | Peluquero  | Intermedia           | Windows    | Feliz           | B    | 65        |
+
 
 
 ![Método UX](img/Survey.png) 4.c Cuestionario SUS
