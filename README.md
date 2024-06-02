@@ -340,14 +340,14 @@ Resultados y valoración
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
-En el [informe de usabilidad](Informe_usabilidad-SaborArtesanal.pdf) podemos observar cómo se ha analizado el caso y los pasos llevados a cabo para el mismo, desde la experiencia de los usuarios, pasando por el eyeTracking hasta el cuestionario SUS y sus resultados.
+>>En el [informe de usabilidad](Informe_usabilidad-SaborArtesanal.pdf) podemos observar cómo se ha analizado el caso y los pasos llevados a cabo para el mismo, desde la experiencia de los usuarios, pasando por el eyeTracking hasta el cuestionario SUS y sus resultados.
 
 * Conclusiones
-Basándonos en los resultados obtenidos a través del cuestionario SUS, el análisis de las tareas realizadas y la evaluación de la usabilidad mediante EyeTracking, podemos concluir que la aplicación final no está mal. Si bien observamos algunas áreas de mejora, especialmente para usuarios de mayor edad y menor experiencia con la tecnología, en general, la interfaz parece ser intuitiva y fácil de usar para aquellos más familiarizados con las herramientas digitales.
+>>Basándonos en los resultados obtenidos a través del cuestionario SUS, el análisis de las tareas realizadas y la evaluación de la usabilidad mediante EyeTracking, podemos concluir que la aplicación final no está mal. Si bien observamos algunas áreas de mejora, especialmente para usuarios de mayor edad y menor experiencia con la tecnología, en general, la interfaz parece ser intuitiva y fácil de usar para aquellos más familiarizados con las herramientas digitales.
 
-Sin embargo, para abordar las necesidades de usuarios menos experimentados, podríamos considerar implementar algunas mejoras en la interfaz de usuario, como simplificar los procesos, proporcionar más orientación o agregar funciones de ayuda.
+>>Sin embargo, para abordar las necesidades de usuarios menos experimentados, podríamos considerar implementar algunas mejoras en la interfaz de usuario, como simplificar los procesos, proporcionar más orientación o agregar funciones de ayuda.
 
-En resumen, si bien la aplicación actual cumple con ciertas expectativas de usabilidad, existen oportunidades para mejorar la experiencia del usuario, especialmente para aquellos con menos experiencia en tecnología.
+>>En resumen, si bien la aplicación actual cumple con ciertas expectativas de usabilidad, existen oportunidades para mejorar la experiencia del usuario, especialmente para aquellos con menos experiencia en tecnología.
 
 
 
@@ -369,17 +369,4 @@ En resumen, si bien la aplicación actual cumple con ciertas expectativas de usa
 ## Conclusión final / Valoración de las prácticas
 
 
->>> El proceso de desarrollo de diseño siguiendo la metodología UX para "Sabor Artesanal" ha sido en general positivo. Utilizar técnicas como A/B testing, eye tracking y el cuestionario SUS ha permitido obtener una comprensión profunda de la experiencia del usuario y cómo mejorarla. La práctica ha demostrado que un enfoque centrado en el usuario puede revelar áreas críticas para la mejora y optimización del diseño. Aunque algunos usuarios enfrentaron desafíos, especialmente aquellos con menos experiencia en internet, las técnicas de UX han proporcionado un camino claro para abordar estas cuestiones y mejorar la accesibilidad y usabilidad de la aplicación. En resumen, la metodología UX ha sido efectiva para evaluar y mejorar la experiencia del usuario en estas prácticas. 
-
-
-
-
-
-
-
-
-
-
-
-
-
+>>> El proceso de desarrollo de diseño siguiendo la metodología UX para "Sabor Artesanal" ha sido en general positivo. Utilizar técnicas como A/B testing, eye tracking y el cuestionario SUS ha permitido obtener una comprensión profunda de la experiencia del usuario y cómo mejorarla. Con las prácticas hemos aprendido que un enfoque centrado en el usuario puede revelar áreas críticas para la mejora y optimización del diseño. Aunque algunos usuarios enfrentaron desafíos, especialmente aquellos con menos experiencia en internet, las técnicas de UX han proporcionado un camino claro para abordar estas cuestiones y mejorar la accesibilidad y usabilidad de la aplicación. En resumen, la metodología UX ha sido efectiva para evaluar y mejorar la experiencia del usuario en estas prácticas. 
